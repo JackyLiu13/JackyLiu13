@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **jliu2852@uwo.ca**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me **https://www.linkedin.com/in/jacky-liu13/**</h3>
 <p align="left">
 </p>
 
