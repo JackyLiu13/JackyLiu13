@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Web Development 🤓💻**
 
 - 📫 How to reach me **jliu2852@uwo.ca**
-<a href="https://www.linkedin.com/in/jacky-liu13/"><h3 align="left">Connect with me!</h3></a>
+<a href="https://www.linkedin.com/in/jacky-liu13/"><h3 align="left">Connect with me on LinkedIn!</h3></a>
 <p align="left">
 </p>
 
