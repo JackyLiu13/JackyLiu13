@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Web Development and Machine Learning on Kaggle🤓💻**
 
 - 📫 How to reach me **jliu2852@uwo.ca**
+- 
 <a href="https://www.linkedin.com/in/jacky-liu13/">Connect with me on LinkedIn!</a>
 <p align="left">
 </p>
