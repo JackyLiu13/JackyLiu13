@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jacky</h1>
 <h3 align="center">CS + Business Student At the University of Western Ontario</h3>
 
-- 🌱 I’m currently learning **Web Development 🤓💻**
+- 🌱 I’m currently learning **Web Development and Machine Learning on Kaggle🤓💻**
 
 - 📫 How to reach me **jliu2852@uwo.ca**
 <a href="https://www.linkedin.com/in/jacky-liu13/"><h3 align="left">Connect with me on LinkedIn!</h3></a>
