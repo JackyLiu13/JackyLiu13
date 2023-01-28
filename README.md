@@ -11,9 +11,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jacky</h1>
 <h3 align="center">CS + Business Student At the University of Western Ontario</h3>
 
-- 🌱 I’m currently learning **Web Development and Machine Learning on Kaggle🤓💻**
+- 🌱 I’m currently learning **MERN stack and Machine Learning on Kaggle🤓💻**
 
 - 📫 How to reach me **jliu2852@uwo.ca**
+
+- 🧑‍💻 Check out my personal website <a href="https://www.linkedin.com/in/jacky-liu13/">Connect with me on LinkedIn!</a>
 
 <a href="https://www.linkedin.com/in/jacky-liu13/">Connect with me on LinkedIn!</a>
 <p align="left">
