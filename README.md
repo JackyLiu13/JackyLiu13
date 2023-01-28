@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **jliu2852@uwo.ca**
 
-- 🧑‍💻 Check out my personal website <a href="https://www.linkedin.com/in/jacky-liu13/">Connect with me on LinkedIn!</a>
+- 🧑‍💻 Check out my <a href="https://www.linkedin.com/in/jacky-liu13/">personal website !</a>
 
 <a href="https://www.linkedin.com/in/jacky-liu13/">Connect with me on LinkedIn!</a>
 <p align="left">
