@@ -1,5 +1,5 @@
 ### Hey there 👋
-### I'm Jacky, and I'm a Second-year student at Western University, currently studying Computer Science and Business. I am actively seeking roles in software engineering/web-development/front-end/back-end/full stack developer roles where I can be continuously challenged, explore new technologies, apply my passion for tech, and create an impact. Feel free to reach out at jliu2852@uwo.ca.
+### I'm Jacky, and I'm a Second-year student at Western University, currently studying Computer Science and Business. I am actively seeking roles in software engineering/web-development/front-end/back-end/full stack developer roles where I can be continuously challenged, explore new technologies, apply my passion for tech, and create an impact. Feel free to reach out at jackyliu013@gmail.com .
 
 <!--
 **JackyLiu13/JackyLiu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN stack and Machine Learning on Kaggle🤓💻**
 
-- 📫 How to reach me **jliu2852@uwo.ca**
+- 📫 How to reach me **jackyliu013@gmail.com**
 
 - 🧑‍💻 Check out my <a href="https://jackyliu13.github.io/JackyLiu/">\>Personal website !\<</a>
 
