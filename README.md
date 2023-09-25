@@ -1,5 +1,5 @@
-### Hey there 👋
-### I'm Jacky, and I'm a third-year student at Western University, currently studying Computer Science and Business. I am actively seeking roles in software engineering/web-development/front-end/back-end/full stack developer roles where I can be continuously challenged, explore new technologies, apply my passion for tech, and create an impact. Feel free to reach out at jackyliu013@gmail.com .
+### Hey there 👋 ###
+### I'm Jacky, and I'm a third-year student at Western University, currently studying Computer Science and Business. I am actively seeking roles in software engineering/web-development/front-end/back-end/full stack developer roles where I can be continuously challenged, explore new technologies, apply my passion for tech, and create an impact. Feel free to reach out at jackyliu013@gmail.com ###
 
 <!--
 **JackyLiu13/JackyLiu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
