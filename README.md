@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jacky</h1>
 <h3 align="center">CS + Business Student At the University of Western Ontario</h3>
 
-- 🌱 I’m currently learning **MERN stack and Machine Learning on Kaggle🤓💻**
+- 🌱 I’m currently learning **Machine Learning and LLMs 🗣️💻** 
 
 - 📫 How to reach me **jackyliu013@gmail.com**
 
